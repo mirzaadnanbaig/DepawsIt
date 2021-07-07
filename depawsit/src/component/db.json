@@ -1,0 +1,30 @@
+[
+    {
+ "id":1,
+  "title": "Forty Rules of Love",
+  "Writer": "Alif Shafak"
+
+
+    },
+   {
+    "id":2,
+     "title": "Zawia 1",
+     "Writer": "Ashfaq Ahmed"
+   
+   
+     },
+   {
+    "id":3,
+     "title": "Zawia 2",
+     "Writer": "Ashfaq Ahmed"
+   
+   
+   },{
+    "id":4,
+     "title": "Zawia 3",
+     "Writer": "Ashfaq Ahmed"
+   
+   
+   }
+   
+]
