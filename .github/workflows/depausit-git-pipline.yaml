@@ -3,7 +3,7 @@ on: push
 jobs:
   Depausit-Dev-deployment-Job:
     name: Depausit Dev Github Actions
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       # Display the event that triggered the workflow
       - run: echo "The job was triggered by a ${{github.event_name}} event."
